@@ -1,0 +1,17 @@
+Blood Group,Units Available,Hospital Name,Location,Availability
+O+,3,AIIMS Kalyani,Kalyani,1
+O+,4,JNM,Kalyani,0
+O-,5,AIIMS Kalyani,Kalyani,1
+O-,8,JNM,Kalyani,0
+AB+,7,AIIMS Kalyani,Kalyani,1
+AB+,7,JNM,Kalyani,0
+AB-,1,AIIMS Kalyani,Kalyani,1
+AB-,7,JNM,Kalyani,0
+A+,1,AIIMS Kalyani,Kalyani,1
+A+,9,JNM,Kalyani,0
+A-,1,AIIMS Kalyani,Kalyani,1
+A-,6,JNM,Kalyani,0
+B+,1,AIIMS Kalyani,Kalyani,1
+B+,8,JNM,Kalyani,0
+B-,1,AIIMS Kalyani,Kalyani,1
+B-,7,JNM,Kalyani,0
